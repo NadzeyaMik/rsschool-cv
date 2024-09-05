@@ -1,7 +1,8 @@
-# Nadzeya Mikhnevich 
+# Nadzeya Mikhnevich - Foremer QA engineer/Future Frontend developer
 
 ## Contact information:
 **E-mail:** nadya.hromenkova@gmail.com
+
 **Linkedin:** https://www.linkedin.com/in/nadzeya-mikhnevich-816992159/
 
 ## Skills
