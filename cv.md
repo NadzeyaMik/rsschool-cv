@@ -1,12 +1,10 @@
 # Nadzeya Mikhnevich 
 
 ## Contact information:
-***
-## E-mail: nadya.hromenkova@gmail.com
-## Linkedin: https://www.linkedin.com/in/nadzeya-mikhnevich-816992159/
+**E-mail:** nadya.hromenkova@gmail.com
+**Linkedin:** https://www.linkedin.com/in/nadzeya-mikhnevich-816992159/
 
 ## Skills
-***
 * Functional testing
 * Crossbrowser testing
 * Jira
@@ -14,7 +12,6 @@
 * Postman
 
 ## Languages
-***
 * English - C1
 * Swedish - A1
 * Russian - C2
